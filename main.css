@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap');
+body {
+
+background-color: C4C4C4;
+
+}
+.ul {
+text-align: right;
+place-items: right;
+}
+.main img {
+    width: 210px;
+    height: 350px;
+    padding-left: 0;
+}
+.cd {
+    font-family: Playfair Display;
+    font-size: 65px;
+}
+
+
