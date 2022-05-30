@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Playfair+Display:wght@600&display=swap');
+.app {
+background-color: black;
+color:rgba(217, 217, 217, 1)
+}
+.body {
+   font-family: 'Lato', sans-serif;
+color: rgba(217, 217, 217, 1);
+font-size: 16px;
+}
+.vi {
+    color: rgba(100, 101, 103, 1);
+}
+
+.home-img {
+    width: 550px;
+    height: 350px;
+    
+}
+.cd {
+    font-family: 'Playfair Display', serif ;
+    font-size: 65px;
+}
+
+.arrow {
+height: 90px; 
+}
+.font {
+    font-weight: bold;
+}
+.p {
+    font-size: 30px;
+    padding-bottom: 1px;
+    margin-inline-end: auto;
+}
+.work-img {
+    width: 250px;
+    height: 20px;
+}
+#navs-page {
+
+    transform: rotate(90deg);
+}
+
+.nis{
+    transform-origin: right top;
+  transform: rotate(-90deg);  
+  width: 100vh;
+  height: 20px;
+  color:white;
+ 
+}
