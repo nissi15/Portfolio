@@ -28,25 +28,45 @@ height: 90px;
 .font {
     font-weight: bold;
 }
+#about {
+    border-top: 200px;
+}
 .p {
     font-size: 30px;
     padding-bottom: 1px;
     margin-inline-end: auto;
 }
-.work-img {
-    width: 250px;
-    height: 20px;
+#work-img {
+    padding-right: 100px;
 }
 #navs-page {
 
     transform: rotate(90deg);
 }
+#img-2 {
+width: 500px;
+height: 415px;
+padding-right: 10px;
+}
+#img-3 
 
 .nis{
     transform-origin: right top;
   transform: rotate(-90deg);  
-  width: 100vh;
   height: 20px;
+  
+  padding: 70px;
   color:white;
+  text-align-last: end;
  
+}
+.about-img {
+    width: 1000px;
+    height: 800px;
+}
+.about-size {
+    font-size: 50px;
+}
+#backgd {
+    background: url(https://media.istockphoto.com/photos/confident-businesswoman-and-her-team-picture-id1303194335?k=20&m=1303194335&s=612x612&w=0&h=4Nb5RXgNVMZ7JHrzPYjx87yPQf_7x0Se_02RItYVbJA=);
 }
