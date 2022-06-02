@@ -3,13 +3,16 @@
 background-color: black;
 color:rgba(217, 217, 217, 1)
 }
+
 .body {
    font-family: 'Lato', sans-serif;
 color: rgba(217, 217, 217, 1);
 font-size: 16px;
 }
+
 .vi {
-    color: rgba(100, 101, 103, 1);
+    color: white;
+    font-size: 45px;
 }
 
 .home-img {
@@ -27,46 +30,94 @@ height: 90px;
 }
 .font {
     font-weight: bold;
+    font-size: 45px;
 }
+
 #about {
     border-top: 200px;
 }
+
 .p {
     font-size: 30px;
     padding-bottom: 1px;
     margin-inline-end: auto;
 }
+
 #work-img {
     padding-right: 100px;
 }
+
 #navs-page {
 
     transform: rotate(90deg);
 }
+
 #img-2 {
 width: 500px;
 height: 415px;
 padding-right: 10px;
 }
+
 #img-3 
 
-.nis{
+.nis {
     transform-origin: right top;
   transform: rotate(-90deg);  
   height: 20px;
   
   padding: 70px;
-  color:white;
+  color: black;
   text-align-last: end;
  
 }
-.about-img {
+
+#about-img {
     width: 1000px;
     height: 800px;
-}
+} 
+
 .about-size {
     font-size: 50px;
-}
+   padding-bottom: 225px;
+    color: black;
+    width: 625px;
+    height: auto;
+    
+} 
+
 #backgd {
-    background: url(https://media.istockphoto.com/photos/confident-businesswoman-and-her-team-picture-id1303194335?k=20&m=1303194335&s=612x612&w=0&h=4Nb5RXgNVMZ7JHrzPYjx87yPQf_7x0Se_02RItYVbJA=);
+    background: url('about.jpg');
+    background-size: cover; 
+    background-repeat: no-repeat; 
 }
+
+.des {
+    font-size: 25px;
+    height: auto;
+    width: 525px;
+}
+
+.core {
+    font-size: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
